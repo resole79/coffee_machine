@@ -2,10 +2,14 @@
 
 Program to simulates a **Coffee Machine**  written in python.  
 
-     
-       
+           
 ###### It's a part of the **#100DaysOfCode** challenge by Angela Yu. ######
 
+
+#### Prerequisites
+You will need the following software to run the Turtle function:
+ - [Python 3](https://www.python.org/downloads/)
+ 
 
 #### Installation
 To get started with the "Coffee Machine", follow these steps:
